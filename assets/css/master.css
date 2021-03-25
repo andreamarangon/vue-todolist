@@ -69,6 +69,9 @@ i {
   margin-left: 20px;
 }
 
+.title.deleted {
+  text-decoration: line-through;
+}
 
 
 /* UTILITY */
